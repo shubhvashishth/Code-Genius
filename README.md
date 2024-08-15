@@ -5,9 +5,9 @@ CodeGenius is an intelligent code assistance tool designed to enhance productivi
 ## Features ✨
 
 - **Intelligent Code Completion** 📝: Suggests code completions based on the context, project structure, and coding patterns.
-- **Bug Detection** 🕵️‍♂️: Identifies potential bugs and vulnerabilities in your code, offering suggestions for fixes.
-- **Code Documentation** 📚: Automatically generates clear and concise documentation based on your code comments and structure.
-- **Code Summarization** 📜: Provides a brief and comprehensive summary of your code, making it easier to understand and maintain.
+- **Bug Detection(Upcoming)** 🕵️‍♂️: Identifies potential bugs and vulnerabilities in your code, offering suggestions for fixes.
+- **Code Documentation(Upcoming)** 📚: Automatically generates clear and concise documentation based on your code comments and structure.
+- **Code Summarization(Upcoming)** 📜: Provides a brief and comprehensive summary of your code, making it easier to understand and maintain.
 
 ## Getting Started 🚀
 
