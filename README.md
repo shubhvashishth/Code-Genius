@@ -34,7 +34,7 @@ CodeGenius is an intelligent code assistance tool designed to enhance productivi
 3. **Install dependencies:**
 
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 ### Usage
@@ -42,4 +42,4 @@ CodeGenius is an intelligent code assistance tool designed to enhance productivi
 Run the `app.py` script to start the CodeGenius CLI:
 
 ```bash
-python app.py
+python3 app.py
